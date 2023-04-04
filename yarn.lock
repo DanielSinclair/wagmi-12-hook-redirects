@@ -765,7 +765,7 @@
   resolved "https://registry.yarnpkg.com/@pedrouid/environment/-/environment-1.0.1.tgz#858f0f8a057340e0b250398b75ead77d6f4342ec"
   integrity sha512-HaW78NszGzRZd9SeoI3JD11JqY+lubnaOx7Pewj5pfjqWXOEATpeKIFb9Z4t2WBUK2iryiXX3lzWwmYWgUL0Ug==
 
-"@rainbow-me/rainbowkit@^0.12.6":
+"@rainbow-me/rainbowkit@0.12.6":
   version "0.12.6"
   resolved "https://registry.yarnpkg.com/@rainbow-me/rainbowkit/-/rainbowkit-0.12.6.tgz#60ab624a7ae4b55378611688d887fcc97910995f"
   integrity sha512-O96vD3UQmhqbxygnMYsfie0vec1yFlqMFHsFo36gWn7pkyn0vhWLLiqiOypGqtvX2dcMJ+U6bBxNtAXhH6ke4w==
@@ -2653,7 +2653,7 @@ eth-rpc-errors@^4.0.2:
   dependencies:
     fast-safe-stringify "^2.0.6"
 
-ethers@^5.0.0, ethers@^5.7.2:
+ethers@5.7.2, ethers@^5.7.2:
   version "5.7.2"
   resolved "https://registry.yarnpkg.com/ethers/-/ethers-5.7.2.tgz#3a7deeabbb8c030d4126b24f84e525466145872e"
   integrity sha512-wswUsmWo1aOK8rR7DIKiWSw9DbLWe6x98Jrn8wcTflTVvaXhAMaB5zGAXy0GYQEQp9iO1iSHWVyARQm11zUtyg==
@@ -4660,7 +4660,7 @@ valtio@1.10.3:
     proxy-compare "2.5.0"
     use-sync-external-store "1.2.0"
 
-wagmi@^0.12.0:
+wagmi@0.12.9:
   version "0.12.9"
   resolved "https://registry.yarnpkg.com/wagmi/-/wagmi-0.12.9.tgz#ca91ab44287a19b257d83f4c3d806e3d37d48b27"
   integrity sha512-grEXM33sUeGSjWSVZGq/8+FCWUOUYrAdAxOqT3OB1C3JrfI7jBXFKQih8KGLrwC8tB4CwZWBYHMlEnZ4vOPu4w==
