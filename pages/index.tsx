@@ -26,11 +26,15 @@ const Home: NextPage = () => {
         <ConnectButton />
 
         <h1 className={styles.title}>
-          WalletConnectLegacyConnector Hooks
+          Wagmi 0.12 Hooks
         </h1>
 
         <p className={styles.description}>
-          Test if the below hooks redirect the user to the wallet
+          WalletConnectLegacyConnector
+        </p>
+
+        <p className={styles.description}>
+          Test if the below hooks redirect the user into their connected wallet. A Push Notification will fire, but a redirect does not occur.
         </p>
 
         <div className={styles.grid}>
@@ -46,12 +50,6 @@ const Home: NextPage = () => {
 
         </div>
       </main>
-
-      <footer className={styles.footer}>
-        <a href="https://rainbow.me" rel="noopener noreferrer" target="_blank">
-          Made with ❤️ by your frens at 🌈
-        </a>
-      </footer>
     </div>
   );
 };
